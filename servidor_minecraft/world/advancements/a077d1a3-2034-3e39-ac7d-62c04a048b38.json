@@ -1,0 +1,21 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-01-12 17:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-12 17:56:30 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-01-12 17:56:30 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
