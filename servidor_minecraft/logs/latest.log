@@ -278,3 +278,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'yuushya:the_encyclopedia'
 [02:45:14] [Server thread/INFO]: [Jmat_2: Set own game mode to Creative Mode]
 [02:45:20] [Server thread/WARN]: Jmat_2 moved too quickly! 6.770330154592443,3.7499927900579593,6.674960564373066
 [02:45:24] [Server thread/WARN]: Jmat_2 moved too quickly! 5.991488551127759,2.0362552507943548,-8.458639730039295
+[02:51:17] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[02:51:17] [Server thread/INFO]: Jmat_2 left the game
