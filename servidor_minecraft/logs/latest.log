@@ -1,3 +1,32 @@
 [00:07:22] [Server thread/INFO]: Jmat_2 was killed
 [00:07:22] [Server thread/INFO]: [Jmat_2: Killed 142 entities]
 [00:07:34] [Server thread/INFO]: [Jmat_2: Set the time to 1000]
+[00:11:48] [Server thread/INFO]: Maycol_27x[/127.244.187.36:34825] logged in with entity id 5788 at (-8.999992756670665, 72.0, 3.205732596280811)
+[00:11:48] [Server thread/INFO]: Syncing config to Maycol_27x (f7c0418f-009a-36ed-9047-607267bfc6b7)
+[00:11:48] [Server thread/INFO]: Loading config from file...
+[00:11:48] [Server thread/INFO]: Maycol_27x joined the game
+[00:11:52] [Server thread/INFO]: [voicechat] Received secret request of Maycol_27x (18)
+[00:11:52] [Server thread/INFO]: [voicechat] Sent secret to Maycol_27x
+[00:13:45] [Server thread/INFO]: [Not Secure] <Jmat_2> Se escucha?
+[00:13:56] [Server thread/INFO]: [Not Secure] <Maycol_27x> NO
+[00:14:01] [Server thread/INFO]: [Not Secure] <Jmat_2> o.
+[00:14:34] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[00:14:34] [Server thread/INFO]: Jmat_2 left the game
+[00:14:34] [Server thread/INFO]: [voicechat] Disconnecting client Jmat_2
+[00:14:38] [Server thread/INFO]: Jmat_2[/127.31.58.135:57017] logged in with entity id 6103 at (-10.5733801742347, 69.0, 11.178261585953436)
+[00:14:38] [Server thread/INFO]: Syncing config to Jmat_2 (aa041a49-55e8-36c1-a043-9b0d5d029f32)
+[00:14:38] [Server thread/INFO]: Loading config from file...
+[00:14:38] [Server thread/INFO]: Jmat_2 joined the game
+[00:14:39] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
+[00:14:39] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
+[00:14:54] [Server thread/INFO]: [Not Secure] <Jmat_2> sube
+[00:16:19] [Server thread/INFO]: OROCHIMARU[/127.26.6.37:37607] logged in with entity id 6274 at (5.5, 73.0, 0.5)
+[00:16:19] [Server thread/INFO]: Syncing config to OROCHIMARU (1a670f9b-d6d9-3613-af09-5fcf939fdfd9)
+[00:16:19] [Server thread/INFO]: Loading config from file...
+[00:16:19] [Server thread/INFO]: OROCHIMARU joined the game
+[00:16:20] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
+[00:16:20] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
+[00:18:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=63, z=-6}
+[00:18:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=63, z=-8}
+[00:18:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=64, z=-15}
+[00:19:54] [Server thread/INFO]: Maycol_27x has made the advancement [Stone Age]
