@@ -1,0 +1,124 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-17 01:57:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-17 01:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-01-17 01:58:58 +0000",
+      "minecraft:forest": "2025-01-17 01:57:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-17 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-17 01:59:28 +0000"
+    },
+    "done": true
+  },
+  "niftycarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2025-01-17 01:59:28 +0000"
+    },
+    "done": true
+  },
+  "niftycarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2025-01-17 01:59:28 +0000"
+    },
+    "done": true
+  },
+  "niftycarts:recipes/hand_cart": {
+    "criteria": {
+      "has_wheel": "2025-01-17 01:59:28 +0000"
+    },
+    "done": true
+  },
+  "niftycarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2025-01-17 01:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-17 02:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-17 02:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-17 02:01:12 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

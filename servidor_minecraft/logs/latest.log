@@ -665,3 +665,68 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:45:10] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
 [01:49:02] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
 [01:49:02] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:53:46] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:53:47] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:53:47] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:53:55] [Server thread/INFO]: nael_binbolo[/127.171.65.9:59929] logged in with entity id 68129 at (-5.5, 66.0, -0.5)
+[01:53:55] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[01:53:55] [Server thread/INFO]: Loading config from file...
+[01:53:55] [Server thread/INFO]: nael_binbolo joined the game
+[01:53:56] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[01:53:56] [Server thread/INFO]: nael_binbolo left the game
+[01:53:56] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[01:54:05] [Server thread/INFO]: nael_binbolo[/127.171.65.9:40857] logged in with entity id 68253 at (-5.5, 66.0, -0.5)
+[01:54:05] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[01:54:05] [Server thread/INFO]: Loading config from file...
+[01:54:05] [Server thread/INFO]: nael_binbolo joined the game
+[01:54:06] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[01:54:06] [Server thread/INFO]: nael_binbolo left the game
+[01:54:06] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[01:54:09] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[01:54:09] [Server thread/INFO]: Jmat_2 left the game
+[01:54:09] [Server thread/INFO]: [voicechat] Disconnecting client Jmat_2
+[01:54:29] [Server thread/INFO]: nael_binbolo[/127.171.65.9:59747] logged in with entity id 68372 at (-5.5, 66.0, -0.5)
+[01:54:29] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[01:54:29] [Server thread/INFO]: Loading config from file...
+[01:54:29] [Server thread/INFO]: nael_binbolo joined the game
+[01:54:29] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[01:54:29] [Server thread/INFO]: nael_binbolo left the game
+[01:54:29] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[01:56:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bdd3ef7[id=<null>,name=nael_binbolo,properties={},legacy=false] (/127.171.65.9:54665) lost connection: Disconnected
+[01:56:54] [Server thread/INFO]: nael_binbolo[/127.171.65.9:47125] logged in with entity id 68772 at (-5.5, 66.0, -0.5)
+[01:56:54] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[01:56:54] [Server thread/INFO]: Loading config from file...
+[01:56:54] [Server thread/INFO]: nael_binbolo joined the game
+[01:56:55] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[01:56:55] [Server thread/INFO]: nael_binbolo left the game
+[01:56:55] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[01:57:25] [Server thread/INFO]: vGodbridger[/127.194.163.136:45831] logged in with entity id 68928 at (9.5, 64.0, -5.5)
+[01:57:25] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[01:57:25] [Server thread/INFO]: Loading config from file...
+[01:57:25] [Server thread/INFO]: vGodbridger joined the game
+[01:57:31] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[01:57:31] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[01:58:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=9, y=65, z=-5}
+[01:58:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=10, y=65, z=-5}
+[01:58:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=14, y=64, z=-3}
+[01:58:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=16, y=65, z=-7}
+[01:59:07] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=-25, y=-59, z=-20}
+[01:59:07] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=-25, y=-59, z=-19}
+[02:00:17] [Server thread/INFO]: nael_binbolo[/127.171.65.9:49669] logged in with entity id 70620 at (-5.5, 66.0, -0.5)
+[02:00:17] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[02:00:17] [Server thread/INFO]: Loading config from file...
+[02:00:17] [Server thread/INFO]: nael_binbolo joined the game
+[02:00:18] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[02:00:18] [Server thread/INFO]: nael_binbolo left the game
+[02:00:18] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[02:00:55] [Server thread/INFO]: [Not Secure] <vGodbridger> leytter
+[02:01:13] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[02:01:13] [Server thread/INFO]: vGodbridger left the game
+[02:01:13] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[02:01:30] [Server thread/INFO]: OROCHIMARU has made the advancement [Sweet Dreams]
+[02:01:36] [Server thread/INFO]: vGodbridger[/127.194.163.136:43653] logged in with entity id 71404 at (85.53443103419141, 71.0, 258.5683115510393)
+[02:01:36] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[02:01:36] [Server thread/INFO]: Loading config from file...
+[02:01:36] [Server thread/INFO]: vGodbridger joined the game
+[02:01:37] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[02:01:37] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
