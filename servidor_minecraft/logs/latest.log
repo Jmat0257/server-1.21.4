@@ -892,3 +892,18 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[03:24:44] [Server thread/INFO]: nael_binbolo[/127.171.65.9:38657] logged in with entity id 3930 at (-785.3269865656063, 110.0, -556.3343211390953)
+[03:24:44] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[03:24:44] [Server thread/INFO]: Loading config from file...
+[03:24:44] [Server thread/INFO]: nael_binbolo joined the game
+[03:24:48] [Server thread/INFO]: [voicechat] Received secret request of nael_binbolo (18)
+[03:24:48] [Server thread/INFO]: [voicechat] Sent secret to nael_binbolo
+[03:25:12] [Server thread/INFO]: Jmat_2 has made the advancement [Crops of the Wild]
+[03:25:59] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[03:25:59] [Server thread/INFO]: nael_binbolo left the game
+[03:25:59] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[03:25:59] [Server thread/WARN]: handleDisconnection() called twice
+[03:28:12] [Worker-Main-1/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[03:29:48] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[03:29:48] [Server thread/INFO]: Jmat_2 left the game
+[03:29:48] [Server thread/INFO]: [voicechat] Disconnecting client Jmat_2
