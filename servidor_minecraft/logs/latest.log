@@ -730,3 +730,60 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:01:36] [Server thread/INFO]: vGodbridger joined the game
 [02:01:37] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
 [02:01:37] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[02:04:28] [Server thread/INFO]: nael_binbolo[/127.171.65.9:36799] logged in with entity id 72464 at (-5.5, 66.0, -0.5)
+[02:04:28] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[02:04:28] [Server thread/INFO]: Loading config from file...
+[02:04:28] [Server thread/INFO]: nael_binbolo joined the game
+[02:04:30] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[02:04:30] [Server thread/INFO]: nael_binbolo left the game
+[02:04:30] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[02:05:22] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[02:05:22] [Server thread/INFO]: vGodbridger left the game
+[02:05:22] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[02:05:26] [Server thread/INFO]: vGodbridger[/127.194.163.136:43603] logged in with entity id 72851 at (60.30000001192093, 70.0, 260.9603720749996)
+[02:05:26] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[02:05:26] [Server thread/INFO]: Loading config from file...
+[02:05:26] [Server thread/INFO]: vGodbridger joined the game
+[02:05:26] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[02:05:26] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[02:05:27] [Server thread/INFO]: nael_binbolo[/127.171.65.9:44529] logged in with entity id 73155 at (-5.5, 66.0, -0.5)
+[02:05:27] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[02:05:27] [Server thread/INFO]: Loading config from file...
+[02:05:27] [Server thread/INFO]: nael_binbolo joined the game
+[02:05:28] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[02:05:28] [Server thread/INFO]: nael_binbolo left the game
+[02:05:28] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[02:05:56] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[02:05:56] [Server thread/INFO]: vGodbridger left the game
+[02:05:56] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[02:06:40] [Server thread/INFO]: vGodbridger[/127.194.163.136:36393] logged in with entity id 73497 at (60.30000001192093, 70.0, 260.9603720749996)
+[02:06:40] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[02:06:40] [Server thread/INFO]: Loading config from file...
+[02:06:40] [Server thread/INFO]: vGodbridger joined the game
+[02:06:40] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[02:06:40] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[02:07:23] [Server thread/INFO]: Jmat_2[/127.31.58.135:57615] logged in with entity id 73967 at (-793.5234317477307, 108.0, -578.6999999880791)
+[02:07:23] [Server thread/INFO]: Syncing config to Jmat_2 (aa041a49-55e8-36c1-a043-9b0d5d029f32)
+[02:07:23] [Server thread/INFO]: Loading config from file...
+[02:07:23] [Server thread/INFO]: Jmat_2 joined the game
+[02:07:23] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
+[02:07:23] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
+[02:07:42] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[02:07:43] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[02:07:43] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[02:07:44] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[02:09:05] [Server thread/INFO]: vGodbridger has made the advancement [Stone Age]
+[02:09:47] [Server thread/INFO]: [Not Secure] <vGodbridger> yo tengo el pinguino
+[02:10:14] [Server thread/INFO]: vGodbridger has made the advancement [Getting an Upgrade]
+[02:10:21] [Server thread/INFO]: [Not Secure] <vGodbridger> era
+[02:10:56] [Server thread/INFO]: nael_binbolo[/127.171.65.9:33263] logged in with entity id 75671 at (-5.5, 66.0, -0.5)
+[02:10:56] [Server thread/INFO]: Syncing config to nael_binbolo (c9513871-64ee-3885-8a67-ab3727128f97)
+[02:10:56] [Server thread/INFO]: Loading config from file...
+[02:10:56] [Server thread/INFO]: nael_binbolo joined the game
+[02:10:58] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[02:10:58] [Server thread/INFO]: nael_binbolo left the game
+[02:10:58] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[02:12:03] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[02:12:03] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[02:12:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-654, y=64, z=-708} class_2338{x=-654, y=62, z=-708}
+[02:12:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-654, y=64, z=-708} class_2338{x=-654, y=62, z=-708}
