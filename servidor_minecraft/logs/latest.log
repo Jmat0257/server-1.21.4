@@ -30,3 +30,41 @@
 [00:18:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=63, z=-8}
 [00:18:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=64, z=-15}
 [00:19:54] [Server thread/INFO]: Maycol_27x has made the advancement [Stone Age]
+[00:20:50] [Server thread/INFO]: OROCHIMARU lost connection: Timed out
+[00:20:50] [Server thread/INFO]: OROCHIMARU left the game
+[00:20:50] [Server thread/INFO]: [voicechat] Disconnecting client OROCHIMARU
+[00:21:13] [Server thread/INFO]: OROCHIMARU[/127.26.6.37:42015] logged in with entity id 7040 at (21.97745920053746, 64.0, 1.252988825823501)
+[00:21:13] [Server thread/INFO]: Syncing config to OROCHIMARU (1a670f9b-d6d9-3613-af09-5fcf939fdfd9)
+[00:21:13] [Server thread/INFO]: Loading config from file...
+[00:21:13] [Server thread/INFO]: OROCHIMARU joined the game
+[00:21:13] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
+[00:21:13] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
+[00:22:11] [Server thread/INFO]: Maycol_27x has made the advancement [Getting an Upgrade]
+[00:22:51] [Server thread/INFO]: OROCHIMARU was slain by Drowned
+[00:24:29] [Server thread/WARN]: Jmat_2 moved too quickly! -7.33090654141688,3.5813359922251635,-6.042054846944666
+[00:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[00:24:34] [Server thread/INFO]: OROCHIMARU has made the advancement [Stone Age]
+[00:24:49] [Server thread/INFO]: Jmat_2 was slain by Zombie
+[00:25:30] [Server thread/INFO]: OROCHIMARU has made the advancement [Getting an Upgrade]
+[00:27:07] [Server thread/INFO]: Maycol_27x has made the advancement [Acquire Hardware]
+[00:31:16] [Server thread/INFO]: Jmat_2 has made the advancement [Suit Up]
+[00:31:18] [Server thread/INFO]: Jmat_2 has made the advancement [Acquire Hardware]
+[00:32:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-720, y=65, z=-971} class_2338{x=-719, y=63, z=-972}
+[00:34:28] [Server thread/INFO]: Jmat_2 has made the advancement [Ice Bucket Challenge]
+[00:35:28] [Server thread/INFO]: Jmat_2 has made the advancement [Hot Stuff]
+[00:36:59] [Server thread/INFO]: Jmat_2 has made the advancement [Sweet Dreams]
+[00:37:26] [Server thread/INFO]: Maycol_27x has made the advancement [Quite the Renovation]
+[00:37:27] [Server thread/INFO]: Maycol_27x has made the advancement [Monster Hunter]
+[00:38:28] [Server thread/INFO]: Jmat_2 has made the advancement [We Need to Go Deeper]
+[00:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11441ms or 228 ticks behind
+[00:38:50] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[00:38:50] [Server thread/INFO]: Jmat_2 left the game
+[00:38:50] [Server thread/INFO]: [voicechat] Disconnecting client Jmat_2
+[00:39:14] [Server thread/INFO]: Jmat_2[/127.31.58.135:53869] logged in with entity id 19976 at (-57.288707455471815, 65.56476089798383, -72.0023960992027)
+[00:39:14] [Server thread/INFO]: Syncing config to Jmat_2 (aa041a49-55e8-36c1-a043-9b0d5d029f32)
+[00:39:14] [Server thread/INFO]: Loading config from file...
+[00:39:14] [Server thread/INFO]: Jmat_2 joined the game
+[00:39:15] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
+[00:39:15] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
+[00:39:21] [Server thread/INFO]: Jmat_2 fell from a high place
+[00:39:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
