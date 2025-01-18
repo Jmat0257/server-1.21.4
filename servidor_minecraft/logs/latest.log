@@ -2505,3 +2505,33 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:23:18] [Server thread/INFO]:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <--[HERE]
 [23:23:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [23:23:18] [Server thread/INFO]: <--[HERE]
+[23:47:46] [Server thread/INFO]: OROCHIMARU lost connection: Timed out
+[23:47:46] [Server thread/INFO]: OROCHIMARU left the game
+[23:47:46] [Server thread/INFO]: [voicechat] Disconnecting client OROCHIMARU
+[23:48:26] [Server thread/INFO]: Mohamed_la_punta[/127.87.116.172:58743] logged in with entity id 53595 at (-9.5, 71.0, 1.5)
+[23:48:26] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[23:48:26] [Server thread/INFO]: Loading config from file...
+[23:48:26] [Server thread/INFO]: Mohamed_la_punta joined the game
+[23:48:38] [Server thread/INFO]: [voicechat] Received secret request of Mohamed_la_punta (18)
+[23:48:38] [Server thread/INFO]: [voicechat] Sent secret to Mohamed_la_punta
+[23:49:01] [Server thread/INFO]: OROCHIMARU[/127.26.6.37:53653] logged in with entity id 53738 at (-786.2666625409202, 112.0, -591.5)
+[23:49:01] [Server thread/INFO]: Syncing config to OROCHIMARU (1a670f9b-d6d9-3613-af09-5fcf939fdfd9)
+[23:49:01] [Server thread/INFO]: Loading config from file...
+[23:49:01] [Server thread/INFO]: OROCHIMARU joined the game
+[23:49:02] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
+[23:49:02] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
+[23:49:32] [Server thread/INFO]: OROCHIMARU lost connection: Timed out
+[23:49:32] [Server thread/INFO]: OROCHIMARU left the game
+[23:49:32] [Server thread/INFO]: [voicechat] Disconnecting client OROCHIMARU
+[23:50:10] [Server thread/INFO]: OROCHIMARU[/127.26.6.37:46479] logged in with entity id 54139 at (-786.2666625409202, 112.0, -591.5)
+[23:50:10] [Server thread/INFO]: Syncing config to OROCHIMARU (1a670f9b-d6d9-3613-af09-5fcf939fdfd9)
+[23:50:10] [Server thread/INFO]: Loading config from file...
+[23:50:10] [Server thread/INFO]: OROCHIMARU joined the game
+[23:50:11] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
+[23:50:11] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
+[23:50:41] [Server thread/INFO]: OROCHIMARU tried to swim in lava
+[23:50:41] [Server thread/INFO]: Created new backpack backup file for OROCHIMARU with unique ID travelersbackpack.standard_18.01.2025-23.50.41.dat
+[23:50:41] [Server thread/INFO]: Your backpack has been placed at X: -786 Y: 112 Z: -591
+[23:50:49] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[23:50:49] [Server thread/INFO]: OROCHIMARU left the game
+[23:50:49] [Server thread/INFO]: [voicechat] Disconnecting client OROCHIMARU
