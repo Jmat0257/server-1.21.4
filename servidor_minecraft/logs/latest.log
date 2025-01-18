@@ -1972,3 +1972,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[23:11:33] [Server thread/INFO]: Mohamed_la_punta[/127.87.116.172:48791] logged in with entity id 47361 at (-9.5, 71.0, 1.5)
+[23:11:33] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[23:11:33] [Server thread/INFO]: Loading config from file...
+[23:11:33] [Server thread/INFO]: Mohamed_la_punta joined the game
+[23:11:44] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[23:11:45] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[23:11:45] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[23:11:48] [Server thread/INFO]: Mohamed_la_punta lost connection: Disconnected
+[23:11:48] [Server thread/INFO]: Mohamed_la_punta left the game
+[23:11:48] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta

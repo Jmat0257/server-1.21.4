@@ -2580,6 +2580,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-18 23:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-01-18 21:39:53 +0000"
@@ -2781,6 +2787,12 @@
   "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_salmon_slice": "2025-01-18 22:22:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-18 23:05:51 +0000"
     },
     "done": true
   },
@@ -2994,6 +3006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-18 23:05:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_the_recipe": "2025-01-18 21:57:43 +0000"
@@ -3003,6 +3021,12 @@
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-18 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-18 23:05:51 +0000"
     },
     "done": true
   },
@@ -3341,6 +3365,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-01-18 21:33:11 +0000",
+      "minecraft:cow": "2025-01-18 23:10:03 +0000",
       "minecraft:chicken": "2025-01-18 21:38:23 +0000"
     },
     "done": false
@@ -3565,6 +3590,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-01-18 20:39:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_the_recipe": "2025-01-18 23:04:35 +0000"
     },
     "done": true
   },
