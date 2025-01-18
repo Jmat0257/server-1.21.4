@@ -2872,6 +2872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-18 22:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-18 21:24:54 +0000"
@@ -2959,6 +2965,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:39:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-01-18 22:30:07 +0000"
     },
     "done": true
   },
@@ -3057,7 +3069,8 @@
       "cabbage": "2025-01-18 20:50:17 +0000",
       "onion": "2025-01-18 20:51:06 +0000",
       "tomato": "2025-01-18 20:44:46 +0000",
-      "potato": "2025-01-18 20:44:17 +0000"
+      "potato": "2025-01-18 20:44:17 +0000",
+      "wheat": "2025-01-18 22:23:04 +0000"
     },
     "done": false
   },
@@ -3284,6 +3297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-18 22:24:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_skillet": {
     "criteria": {
       "skillet": "2025-01-18 21:48:40 +0000"
@@ -3425,6 +3444,12 @@
   "farmersdelight:recipes/decorations/rope": {
     "criteria": {
       "has_straw": "2025-01-18 22:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-18 22:24:10 +0000"
     },
     "done": true
   },

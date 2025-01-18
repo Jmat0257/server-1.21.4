@@ -1383,3 +1383,19 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:22:37] [Server thread/INFO]: vGodbridger lost connection: Timed out
 [22:22:37] [Server thread/INFO]: vGodbridger left the game
 [22:22:37] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[22:27:11] [Server thread/INFO]: Jmat_2 has made the advancement [Bonk!]
+[22:30:02] [Server thread/INFO]: Jmat_2 has made the advancement [Voluntary Exile]
+[22:32:42] [Server thread/INFO]: OROCHIMARU burned to death
+[22:32:42] [Server thread/INFO]: Created new backpack backup file for OROCHIMARU with unique ID travelersbackpack.standard_18.01.2025-22.32.42.dat
+[22:32:42] [Server thread/INFO]: Your backpack has been placed at X: -772 Y: 109 Z: -572
+[22:32:49] [Server thread/WARN]: OROCHIMARU was kicked for floating too long!
+[22:32:49] [Server thread/INFO]: OROCHIMARU lost connection: Flying is not enabled on this server
+[22:32:49] [Server thread/INFO]: OROCHIMARU left the game
+[22:32:49] [Server thread/INFO]: [voicechat] Disconnecting client OROCHIMARU
+[22:32:49] [Server thread/WARN]: handleDisconnection() called twice
+[22:32:54] [Server thread/INFO]: OROCHIMARU[/127.26.6.37:43211] logged in with entity id 40492 at (-789.5600809054972, 111.24918707874468, -572.1224551579022)
+[22:32:54] [Server thread/INFO]: Syncing config to OROCHIMARU (1a670f9b-d6d9-3613-af09-5fcf939fdfd9)
+[22:32:54] [Server thread/INFO]: Loading config from file...
+[22:32:54] [Server thread/INFO]: OROCHIMARU joined the game
+[22:32:55] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
+[22:32:55] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
