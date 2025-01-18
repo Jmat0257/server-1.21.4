@@ -1399,3 +1399,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:32:54] [Server thread/INFO]: OROCHIMARU joined the game
 [22:32:55] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
 [22:32:55] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
+[22:52:21] [Server thread/INFO]: OROCHIMARU has made the advancement [The Parrots and the Bats]

@@ -17,6 +17,7 @@
       "minecraft:windswept_hills": "2025-01-17 00:34:34 +0000",
       "minecraft:river": "2025-01-17 00:21:57 +0000",
       "minecraft:forest": "2025-01-17 00:16:20 +0000",
+      "minecraft:meadow": "2025-01-18 22:49:00 +0000",
       "minecraft:savanna": "2025-01-17 00:27:24 +0000",
       "minecraft:plains": "2025-01-17 00:26:38 +0000"
     },
@@ -3347,6 +3348,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "ratatouille": "2025-01-18 22:45:25 +0000",
       "fish_stew": "2025-01-18 21:54:45 +0000",
       "fried_rice": "2025-01-18 21:56:20 +0000"
     },
@@ -3544,6 +3546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-18 22:46:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-01-18 22:39:08 +0000"
@@ -3562,15 +3570,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-18 22:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-18 22:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-18 22:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-01-18 22:39:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-18 22:46:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 22:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-01-18 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-18 22:45:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-18 22:46:50 +0000"
     },
     "done": true
   },
