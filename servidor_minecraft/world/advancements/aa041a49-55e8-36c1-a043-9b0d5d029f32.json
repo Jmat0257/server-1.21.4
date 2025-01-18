@@ -3218,6 +3218,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-18 23:00:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-01-18 21:43:02 +0000"
@@ -3314,6 +3320,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-18 23:00:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-18 21:22:41 +0000"
@@ -3365,6 +3377,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "ratatouille": "2025-01-18 22:54:55 +0000",
       "fish_stew": "2025-01-18 21:54:38 +0000"
     },
     "done": false
@@ -3402,6 +3415,12 @@
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2025-01-18 22:27:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-18 22:54:55 +0000"
     },
     "done": true
   },
@@ -3678,6 +3697,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-01-18 21:21:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-18 23:00:46 +0000"
     },
     "done": true
   },
