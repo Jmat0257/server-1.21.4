@@ -891,3 +891,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:20:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
 [18:20:58] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
 [18:20:58] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
+[18:45:29] [Server thread/INFO]: Jmat_2 has made the advancement [Diamonds!]
+[18:52:47] [Server thread/INFO]: [Jmat_2: Teleported Jmat_2 to -796.500000, 110.500000, -578.500000]
