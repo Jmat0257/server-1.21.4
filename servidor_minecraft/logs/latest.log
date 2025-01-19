@@ -2116,3 +2116,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:23:33] [Server thread/INFO]: [voicechat] Disconnecting client Jmat_2
 [20:26:43] [Server thread/INFO]: Villager class_1646['Nitwit'/24201, l='ServerLevel[world]', x=-3685.51, y=120.00, z=-2962.37] died, message: 'Nitwit was slain by Maycol_27x'
 [20:50:18] [Server thread/INFO]: [Not Secure] <OROCHIMARU> w
+[21:07:24] [Server thread/INFO]: Maycol_27x has made the advancement [Cover Me with Diamonds]
