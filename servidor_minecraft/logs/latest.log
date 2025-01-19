@@ -1701,3 +1701,63 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:32:20] [Server thread/INFO]: [Not Secure] <vGodbridger> ponme cofres no_
 [19:32:23] [Server thread/INFO]: [Not Secure] <vGodbridger> ?
 [19:33:07] [Server thread/INFO]: [Not Secure] <vGodbridger> UNO SOLO
+[19:34:41] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[19:34:41] [Server thread/INFO]: Maycol_27x left the game
+[19:34:41] [Server thread/INFO]: [voicechat] Disconnecting client Maycol_27x
+[19:34:48] [Server thread/INFO]: Maycol_27x[/127.137.81.102:55189] logged in with entity id 24173 at (-3661.340867912469, 118.0, -2942.5628447138483)
+[19:34:48] [Server thread/INFO]: Syncing config to Maycol_27x (f7c0418f-009a-36ed-9047-607267bfc6b7)
+[19:34:48] [Server thread/INFO]: Loading config from file...
+[19:34:48] [Server thread/INFO]: Maycol_27x joined the game
+[19:34:50] [Server thread/INFO]: [voicechat] Received secret request of Maycol_27x (18)
+[19:34:50] [Server thread/INFO]: [voicechat] Sent secret to Maycol_27x
+[19:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:34:53] [Server thread/INFO]: [Not Secure] <vGodbridger> Maycol_27 vamono pa la aldea
+[19:35:16] [Server thread/INFO]: [Not Secure] <vGodbridger> ME LLEVO EL PORTAL
+[19:35:40] [Server thread/INFO]: vGodbridger has made the advancement [We Need to Go Deeper]
+[19:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[19:36:04] [Server thread/INFO]: [Not Secure] <vGodbridger> UN CABALLO
+[19:36:10] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[19:36:10] [Server thread/INFO]: vGodbridger left the game
+[19:36:10] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[19:36:10] [Server thread/WARN]: handleDisconnection() called twice
+[19:36:33] [Server thread/INFO]: vGodbridger[/127.194.163.136:39369] logged in with entity id 25430 at (-99.61751961805564, 111.8500000178814, -72.00024027967267)
+[19:36:33] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[19:36:33] [Server thread/INFO]: Loading config from file...
+[19:36:33] [Server thread/INFO]: vGodbridger joined the game
+[19:36:35] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[19:36:35] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[19:37:03] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[19:37:03] [Server thread/INFO]: vGodbridger left the game
+[19:37:03] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[19:37:09] [Server thread/INFO]: vGodbridger[/127.194.163.136:55427] logged in with entity id 25536 at (-99.61751961805564, 111.8500000178814, -72.00024027967267)
+[19:37:09] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[19:37:09] [Server thread/INFO]: Loading config from file...
+[19:37:09] [Server thread/INFO]: vGodbridger joined the game
+[19:37:09] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[19:37:09] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[19:38:09] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[19:38:09] [Server thread/INFO]: vGodbridger left the game
+[19:38:09] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[19:38:09] [Server thread/WARN]: handleDisconnection() called twice
+[19:38:30] [Server thread/WARN]: Jmat_2 was kicked for floating too long!
+[19:38:30] [Server thread/INFO]: Jmat_2 lost connection: Flying is not enabled on this server
+[19:38:30] [Server thread/INFO]: Jmat_2 left the game
+[19:38:30] [Server thread/INFO]: [voicechat] Disconnecting client Jmat_2
+[19:38:44] [Server thread/INFO]: Jmat_2[/127.31.58.135:60471] logged in with entity id 26330 at (-796.3037638793746, 111.16610926093821, -570.052302327349)
+[19:38:44] [Server thread/INFO]: Syncing config to Jmat_2 (aa041a49-55e8-36c1-a043-9b0d5d029f32)
+[19:38:44] [Server thread/INFO]: Loading config from file...
+[19:38:44] [Server thread/INFO]: Jmat_2 joined the game
+[19:38:46] [Server thread/INFO]: vGodbridger[/127.194.163.136:55293] logged in with entity id 26431 at (-785.9788763853963, 112.0, -591.5)
+[19:38:46] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[19:38:46] [Server thread/INFO]: Loading config from file...
+[19:38:46] [Server thread/INFO]: vGodbridger joined the game
+[19:38:46] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[19:38:46] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[19:38:47] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
+[19:38:47] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
+[19:39:40] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[19:39:40] [Server thread/INFO]: vGodbridger left the game
+[19:39:40] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[19:47:11] [Server thread/INFO]: [Jmat_2: Teleported Jmat_2 to -274.500000, 63.500000, 295.500000]
+[19:47:20] [Server thread/INFO]: [Jmat_2: Teleported Jmat_2 to -796.500000, 110.500000, -578.500000]
+[19:53:41] [Server thread/WARN]: Jmat_2 moved wrongly!
