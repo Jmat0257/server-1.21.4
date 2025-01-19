@@ -3054,3 +3054,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:00:48] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
 [23:00:48] [Server thread/INFO]: OROCHIMARU left the game
 [23:00:48] [Server thread/INFO]: [voicechat] Disconnecting client OROCHIMARU
+[23:17:35] [Server thread/INFO]: OROCHIMARU[/127.26.6.37:57761] logged in with entity id 129554 at (-246.03022190384837, 65.4010577074438, 286.88017454055466)
+[23:17:35] [Server thread/INFO]: Syncing config to OROCHIMARU (1a670f9b-d6d9-3613-af09-5fcf939fdfd9)
+[23:17:35] [Server thread/INFO]: Loading config from file...
+[23:17:35] [Server thread/INFO]: OROCHIMARU joined the game
+[23:17:35] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
+[23:17:35] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
