@@ -18,7 +18,10 @@
       "minecraft:sunflower_plains": "2025-01-19 02:09:24 +0000",
       "minecraft:birch_forest": "2025-01-19 19:53:38 +0000",
       "minecraft:windswept_hills": "2025-01-17 00:28:23 +0000",
+      "minecraft:bamboo_jungle": "2025-01-19 20:11:22 +0000",
       "minecraft:beach": "2025-01-18 01:33:57 +0000",
+      "minecraft:dark_forest": "2025-01-19 20:00:35 +0000",
+      "minecraft:sparse_jungle": "2025-01-19 20:11:45 +0000",
       "minecraft:river": "2025-01-17 00:21:03 +0000",
       "minecraft:stony_shore": "2025-01-19 19:14:30 +0000",
       "minecraft:dripstone_caves": "2025-01-19 01:55:54 +0000",
@@ -26,6 +29,7 @@
       "minecraft:forest": "2025-01-16 23:42:20 +0000",
       "minecraft:ocean": "2025-01-19 19:07:44 +0000",
       "minecraft:meadow": "2025-01-17 02:28:16 +0000",
+      "minecraft:savanna": "2025-01-19 20:13:03 +0000",
       "minecraft:plains": "2025-01-17 00:25:48 +0000"
     },
     "done": false
@@ -2571,6 +2575,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-19 20:04:41 +0000",
       "in_better_spider_dungeon": "2025-01-18 01:32:30 +0000",
       "in_better_monster_room": "2025-01-19 19:01:13 +0000"
     },
@@ -4294,6 +4299,96 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-19 19:17:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-19 20:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-19 20:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-19 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-19 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-19 20:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-19 20:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-19 20:02:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-19 20:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-19 20:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-19 20:23:18 +0000"
     },
     "done": true
   },
