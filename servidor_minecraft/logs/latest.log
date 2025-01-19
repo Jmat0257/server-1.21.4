@@ -3051,3 +3051,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:43:06] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 0.8004447925564548
 [22:43:06] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.2950327751716646
 [22:43:06] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.7823921270673235
+[23:00:48] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[23:00:48] [Server thread/INFO]: OROCHIMARU left the game
+[23:00:48] [Server thread/INFO]: [voicechat] Disconnecting client OROCHIMARU
