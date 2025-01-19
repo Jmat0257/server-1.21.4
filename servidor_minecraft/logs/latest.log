@@ -931,3 +931,39 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[01:26:48] [Server thread/INFO]: Mohamed_la_punta[/127.147.164.128:53715] logged in with entity id 58423 at (-10.699999988079071, 70.0, 0.7348891217012662)
+[01:26:48] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[01:26:48] [Server thread/INFO]: Loading config from file...
+[01:26:48] [Server thread/INFO]: Mohamed_la_punta joined the game
+[01:26:59] [Server thread/INFO]: [voicechat] Received secret request of Mohamed_la_punta (18)
+[01:26:59] [Server thread/INFO]: [voicechat] Sent secret to Mohamed_la_punta
+[01:27:18] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:27:18] [Server thread/INFO]: Mohamed_la_punta lost connection: Timed out
+[01:27:18] [Server thread/INFO]: Mohamed_la_punta left the game
+[01:27:18] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta
+[01:27:18] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:27:19] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:28:40] [Server thread/INFO]: Mohamed_la_punta[/127.147.164.128:57227] logged in with entity id 58866 at (-10.699999988079071, 70.0, 0.7348891217012662)
+[01:28:40] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[01:28:40] [Server thread/INFO]: Loading config from file...
+[01:28:41] [Server thread/INFO]: Mohamed_la_punta joined the game
+[01:28:41] [Server thread/INFO]: [voicechat] Received secret request of Mohamed_la_punta (18)
+[01:28:41] [Server thread/INFO]: [voicechat] Sent secret to Mohamed_la_punta
+[01:28:43] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:28:43] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:28:44] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:29:11] [Server thread/INFO]: Mohamed_la_punta lost connection: Timed out
+[01:29:11] [Server thread/INFO]: Mohamed_la_punta left the game
+[01:29:11] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta
+[01:30:30] [Server thread/INFO]: Mohamed_la_punta[/127.147.164.128:40937] logged in with entity id 59319 at (-10.699999988079071, 70.0, 0.7348891217012662)
+[01:30:30] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[01:30:30] [Server thread/INFO]: Loading config from file...
+[01:30:30] [Server thread/INFO]: Mohamed_la_punta joined the game
+[01:30:31] [Server thread/INFO]: [voicechat] Received secret request of Mohamed_la_punta (18)
+[01:30:31] [Server thread/INFO]: [voicechat] Sent secret to Mohamed_la_punta
+[01:30:33] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:30:34] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:30:34] [Server thread/INFO]: [Not Secure] <Jmat_2> -800 -580
+[01:31:00] [Server thread/INFO]: Mohamed_la_punta lost connection: Timed out
+[01:31:00] [Server thread/INFO]: Mohamed_la_punta left the game
+[01:31:00] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta
