@@ -3060,3 +3060,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:17:35] [Server thread/INFO]: OROCHIMARU joined the game
 [23:17:35] [Server thread/INFO]: [voicechat] Received secret request of OROCHIMARU (18)
 [23:17:35] [Server thread/INFO]: [voicechat] Sent secret to OROCHIMARU
+[23:30:38] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 0.3561357135543517
+[23:30:38] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 0.814892960189809
+[23:30:38] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.271079321975435
+[23:30:38] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.7258900545358529
+[23:30:38] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 2.1799647153249566
+[23:32:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=89, z=14} class_2338{x=-406, y=90, z=14}
+[23:32:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=89, z=14} class_2338{x=-406, y=90, z=14}
+[23:32:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=89, z=14} class_2338{x=-406, y=90, z=14}
