@@ -3047,3 +3047,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[22:43:06] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 0.3020629238935797
+[22:43:06] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 0.8004447925564548
+[22:43:06] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.2950327751716646
+[22:43:06] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.7823921270673235
