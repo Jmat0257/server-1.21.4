@@ -884,3 +884,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[18:20:34] [Server thread/INFO]: Jmat_2[/127.31.58.135:40337] logged in with entity id 13 at (-806.5825249022333, 110.0, -560.3000000119209)
+[18:20:34] [Server thread/INFO]: Syncing config to Jmat_2 (aa041a49-55e8-36c1-a043-9b0d5d029f32)
+[18:20:34] [Server thread/INFO]: Loading config from file...
+[18:20:34] [Server thread/INFO]: Jmat_2 joined the game
+[18:20:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[18:20:58] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
+[18:20:58] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
