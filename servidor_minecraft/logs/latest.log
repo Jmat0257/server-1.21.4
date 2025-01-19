@@ -353,3 +353,18 @@
 [02:03:25] [Server thread/INFO]: Mohamed_la_punta hit the ground too hard
 [02:03:56] [Server thread/INFO]: Mohamed_la_punta was blown up by Creeper
 [02:07:49] [Server thread/INFO]: [Not Secure] <Jmat_2> -150 -90
+[02:10:45] [Server thread/INFO]: Mohamed_la_punta lost connection: Disconnected
+[02:10:45] [Server thread/INFO]: Mohamed_la_punta left the game
+[02:10:45] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta
+[02:10:52] [Server thread/INFO]: Mohamed_la_punta[/127.111.127.165:58393] logged in with entity id 9469 at (-764.9337953362841, 108.23750000000001, -544.563893211961)
+[02:10:52] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[02:10:52] [Server thread/INFO]: Loading config from file...
+[02:10:53] [Server thread/INFO]: Mohamed_la_punta joined the game
+[02:10:54] [Server thread/INFO]: [voicechat] Received secret request of Mohamed_la_punta (18)
+[02:10:54] [Server thread/INFO]: [voicechat] Sent secret to Mohamed_la_punta
+[02:15:06] [Server thread/INFO]: Mohamed_la_punta has made the advancement [Suit Up]
+[02:17:45] [Server thread/WARN]: Mohamed_la_punta moved too quickly! 8.56465040653302,0.0,-5.666063754480774
+[02:17:52] [Server thread/INFO]: Mohamed_la_punta has made the advancement [Sweet Dreams]
+[02:18:01] [Server thread/INFO]: Mohamed_la_punta lost connection: Disconnected
+[02:18:01] [Server thread/INFO]: Mohamed_la_punta left the game
+[02:18:01] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta
