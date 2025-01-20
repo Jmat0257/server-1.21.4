@@ -529,3 +529,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [00:14:44] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[01:03:34] [Server thread/INFO]: OROCHIMARU has made the advancement [What a Deal!]
