@@ -530,3 +530,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:14:44] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [01:03:34] [Server thread/INFO]: OROCHIMARU has made the advancement [What a Deal!]
+[01:12:35] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 0.4243696526096272
+[01:12:35] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 0.9236970730747771
+[01:12:35] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.4224913463680195
+[01:12:35] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 1.9206471414395594
+[01:12:35] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 2.4184612995445463
+[01:12:35] [Server thread/WARN]: Horse (vehicle of OROCHIMARU) moved wrongly! 2.9160926545202415
