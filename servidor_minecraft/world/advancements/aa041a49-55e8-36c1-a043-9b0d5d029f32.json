@@ -3257,6 +3257,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "ratatouille": "2025-01-18 22:54:55 +0000",
+      "pasta_with_meatballs": "2025-01-21 04:30:27 +0000",
       "fish_stew": "2025-01-18 21:54:38 +0000"
     },
     "done": false

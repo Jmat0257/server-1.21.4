@@ -1556,3 +1556,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:16:15] [Server thread/INFO]: Villager class_1646['Toolsmith'/39, l='ServerLevel[world]', x=-278.35, y=64.00, z=287.82] died, message: 'Toolsmith was grilled to perfection'
 [04:20:50] [Server thread/INFO]: [Not Secure] <Jmat_2> r
 [04:20:52] [Server thread/INFO]: [Not Secure] <Jmat_2> u
+[04:33:14] [Server thread/INFO]: Villager class_1646['Leatherworker'/40, l='ServerLevel[world]', x=-277.82, y=64.00, z=288.49] died, message: 'Leatherworker was grilled to perfection'
+[04:33:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-314, y=68, z=313} class_2338{x=-314, y=67, z=313}

@@ -872,6 +872,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_the_recipe": "2025-01-21 04:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-21 03:11:59 +0000"
@@ -880,6 +886,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "pasta_with_meatballs": "2025-01-21 04:30:27 +0000",
       "fried_rice": "2025-01-21 03:07:09 +0000"
     },
     "done": false
@@ -935,6 +942,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-21 03:47:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-21 04:30:27 +0000"
     },
     "done": true
   },
