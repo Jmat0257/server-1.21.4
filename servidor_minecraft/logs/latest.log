@@ -983,3 +983,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:11:59] [Server thread/INFO]: DarkFireAlfa has made the advancement [Getting an Upgrade]
 [03:13:16] [Server thread/INFO]: [Not Secure] <OROCHIMARU> casa
 [03:15:07] [Server thread/INFO]: [Not Secure] <OROCHIMARU> a
+[03:18:25] [Server thread/INFO]: DarkFireAlfa has made the advancement [Crops of the Wild]
+[03:18:32] [Server thread/INFO]: DarkFireAlfa has made the advancement [A Seedy Place]
+[03:19:24] [Server thread/INFO]: Villager class_1646['Farmer'/37, l='ServerLevel[world]', x=-278.50, y=64.00, z=287.82] died, message: 'Farmer was grilled to perfection'
+[03:20:48] [Server thread/INFO]: DarkFireAlfa has made the advancement [Sweet Dreams]
+[03:25:31] [Server thread/INFO]: DarkFireAlfa has made the advancement [Hunt and Gather]
