@@ -121,6 +121,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 04:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-21 03:47:33 +0000"
@@ -184,6 +190,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-21 03:07:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:13:29 +0000"
     },
     "done": true
   },
@@ -337,9 +349,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-01-21 04:13:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-21 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 04:09:07 +0000"
     },
     "done": true
   },
@@ -379,6 +403,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 04:08:32 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-01-21 03:04:12 +0000"
@@ -415,6 +445,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-01-21 03:03:48 +0000"
@@ -436,6 +472,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-01-21 04:08:50 +0000"
     },
     "done": true
   },
@@ -523,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-21 03:02:25 +0000"
@@ -532,6 +580,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-21 03:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:13:29 +0000"
     },
     "done": true
   },
@@ -734,6 +788,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-21 04:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-21 03:04:18 +0000"
@@ -857,6 +917,12 @@
   "niftycarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2025-01-21 03:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-21 04:09:07 +0000"
     },
     "done": true
   },
@@ -1046,6 +1112,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-01-21 04:08:32 +0000"
+    },
+    "done": true
+  },
   "niftycarts:recipes/hand_cart": {
     "criteria": {
       "has_wheel": "2025-01-21 03:04:12 +0000"
@@ -1061,6 +1133,12 @@
   "naturalist:recipes/food/cooked_venison": {
     "criteria": {
       "has_venison": "2025-01-21 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:13:29 +0000"
     },
     "done": true
   },
@@ -1157,6 +1235,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-01-21 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:13:29 +0000"
     },
     "done": true
   },
