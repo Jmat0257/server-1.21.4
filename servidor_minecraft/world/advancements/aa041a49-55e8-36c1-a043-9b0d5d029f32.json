@@ -4398,6 +4398,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-01-21 03:08:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
     "criteria": {
       "has_item": "2025-01-21 02:46:33 +0000"
