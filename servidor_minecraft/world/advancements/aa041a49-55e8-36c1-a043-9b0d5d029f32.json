@@ -2595,6 +2595,7 @@
       "sweet_berries": "2025-01-18 22:32:19 +0000",
       "tomato": "2025-01-18 20:22:03 +0000",
       "rice": "2025-01-18 20:27:25 +0000",
+      "kelp": "2025-01-21 03:56:13 +0000",
       "beetroot": "2025-01-18 20:22:29 +0000",
       "potato": "2025-01-18 20:13:45 +0000",
       "wheat": "2025-01-18 20:21:48 +0000",
@@ -4399,9 +4400,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-01-21 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_green_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
     },
     "done": true
   },
@@ -4441,6 +4454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "create:super_glue": {
     "criteria": {
       "0": "2025-01-21 02:59:38 +0000"
@@ -4471,9 +4490,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-21 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-01-21 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
     },
     "done": true
   },
@@ -4483,9 +4520,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-01-21 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-01-21 04:05:56 +0000"
     },
     "done": true
   },
@@ -4513,6 +4562,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-21 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-01-21 03:26:14 +0000"
@@ -4522,6 +4589,30 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-01-21 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-01-21 04:05:56 +0000"
     },
     "done": true
   },
@@ -4537,6 +4628,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
     "criteria": {
       "has_item": "2025-01-21 02:46:33 +0000"
@@ -4549,9 +4646,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-01-21 03:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-21 03:47:00 +0000"
     },
     "done": true
   },
@@ -4561,9 +4676,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-01-21 04:05:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-01-21 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-21 04:05:56 +0000"
     },
     "done": true
   },
