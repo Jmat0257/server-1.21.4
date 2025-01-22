@@ -5292,5 +5292,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-22 02:19:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

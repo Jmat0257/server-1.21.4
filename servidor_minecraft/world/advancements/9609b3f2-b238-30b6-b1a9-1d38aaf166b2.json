@@ -1127,7 +1127,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_chicken": "2025-01-21 03:58:48 +0000"
+      "cooked_chicken": "2025-01-21 03:58:48 +0000",
+      "carrot": "2025-01-22 02:13:55 +0000"
     },
     "done": false
   },
@@ -1470,6 +1471,78 @@
   "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-01-21 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-22 02:18:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-01-22 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-01-22 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-22 02:18:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-01-22 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-22 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-22 02:18:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-01-22 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-22 02:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-22 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 02:11:41 +0000"
     },
     "done": true
   },
