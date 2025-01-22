@@ -913,3 +913,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:16:08] [Server thread/INFO]: vGodbridger joined the game
 [22:16:13] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
 [22:16:13] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[22:22:23] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[22:22:23] [Server thread/INFO]: vGodbridger left the game
+[22:22:23] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
