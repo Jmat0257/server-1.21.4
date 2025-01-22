@@ -898,3 +898,18 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:04:06] [Server thread/INFO]: Jmat_2 joined the game
 [22:04:07] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
 [22:04:07] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
+[22:11:19] [Server thread/INFO]: vGodbridger[/127.194.163.136:44077] logged in with entity id 13183 at (-191.1769609623326, 72.0, 388.4372353455259)
+[22:11:19] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[22:11:19] [Server thread/INFO]: Loading config from file...
+[22:11:19] [Server thread/INFO]: vGodbridger joined the game
+[22:11:22] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[22:11:22] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[22:14:34] [Server thread/INFO]: vGodbridger lost connection: Timed out
+[22:14:34] [Server thread/INFO]: vGodbridger left the game
+[22:14:34] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[22:16:08] [Server thread/INFO]: vGodbridger[/127.194.163.136:36139] logged in with entity id 14119 at (-191.1769609623326, 72.0, 388.4372353455259)
+[22:16:08] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[22:16:08] [Server thread/INFO]: Loading config from file...
+[22:16:08] [Server thread/INFO]: vGodbridger joined the game
+[22:16:13] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[22:16:13] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
