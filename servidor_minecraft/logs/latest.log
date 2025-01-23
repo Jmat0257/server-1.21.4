@@ -860,3 +860,17 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:36:59] [Worker-Main-35/ERROR]: Hanging entity at invalid position: class_2338{x=-44, y=-58, z=1458}
 [02:37:53] [Server thread/INFO]: Jmat_2 has made the advancement [The Brass Age]
 [02:38:40] [Server thread/INFO]: Villager class_1646['Unemployed'/6672, l='ServerLevel[world]', x=-254.55, y=64.00, z=281.55] died, message: 'Unemployed was slain by Zombie'
+[02:48:37] [Server thread/INFO]: Jmat_2 has reached the goal [Desperate Measures]
+[02:51:58] [Worker-Main-18/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[02:54:59] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[02:54:59] [Server thread/INFO]: Maycol_27x left the game
+[02:54:59] [Server thread/INFO]: [voicechat] Disconnecting client Maycol_27x
+[02:55:05] [Server thread/INFO]: Maycol_27x[/127.137.81.102:48729] logged in with entity id 17251 at (-4079.3425324034724, 71.0, -3750.8658052532774)
+[02:55:06] [Server thread/INFO]: Syncing config to Maycol_27x (f7c0418f-009a-36ed-9047-607267bfc6b7)
+[02:55:06] [Server thread/INFO]: Loading config from file...
+[02:55:06] [Server thread/INFO]: Maycol_27x joined the game
+[02:55:07] [Server thread/INFO]: [voicechat] Received secret request of Maycol_27x (18)
+[02:55:07] [Server thread/INFO]: [voicechat] Sent secret to Maycol_27x
+[02:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[02:59:53] [Server thread/WARN]: Jmat_2 moved too quickly! -2.851032712358858,1.631759288177264,-9.534032434465871
+[02:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
