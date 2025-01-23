@@ -856,3 +856,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
 [02:33:38] [Server thread/INFO]: [voicechat] Received secret request of Maycol_27x (18)
 [02:33:38] [Server thread/INFO]: [voicechat] Sent secret to Maycol_27x
+[02:35:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:36:59] [Worker-Main-35/ERROR]: Hanging entity at invalid position: class_2338{x=-44, y=-58, z=1458}
+[02:37:53] [Server thread/INFO]: Jmat_2 has made the advancement [The Brass Age]
+[02:38:40] [Server thread/INFO]: Villager class_1646['Unemployed'/6672, l='ServerLevel[world]', x=-254.55, y=64.00, z=281.55] died, message: 'Unemployed was slain by Zombie'
