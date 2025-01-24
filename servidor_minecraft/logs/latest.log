@@ -1843,3 +1843,6 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [03:01:18] [Server thread/INFO]: Mohamed_la_punta left the game
 [03:01:18] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta
 [03:01:18] [Server thread/INFO]: Villager class_1646['Unemployed'/51527, l='ServerLevel[world]', x=-179.51, y=66.00, z=350.26] died, message: 'Unemployed was slain by Zombie'
+[03:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[03:07:49] [Server thread/WARN]: Maycol_27x moved too quickly! -1.9258154330900652,-0.49520087700592796,-10.001568598457197
+[03:10:12] [Worker-Main-72/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
