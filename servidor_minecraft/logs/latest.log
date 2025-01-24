@@ -1811,3 +1811,35 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [02:50:59] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
 [02:51:02] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
 [02:51:40] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[02:52:40] [Server thread/INFO]: nael_binbolo has made the advancement [Hot Stuff]
+[02:54:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=123, z=47} class_2338{x=-15, y=124, z=48}
+[02:54:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=123, z=48} class_2338{x=-16, y=122, z=47}
+[02:54:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=123, z=48} class_2338{x=-16, y=122, z=47}
+[02:54:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=123, z=48} class_2338{x=-16, y=122, z=47}
+[02:54:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=123, z=48} class_2338{x=-16, y=122, z=47}
+[02:55:53] [Server thread/INFO]: vGodbridger[/127.194.163.136:57947] logged in with entity id 51407 at (-240.01590074100497, 63.0, 345.69999998807907)
+[02:55:53] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[02:55:53] [Server thread/INFO]: Loading config from file...
+[02:55:53] [Server thread/INFO]: vGodbridger joined the game
+[02:55:58] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
+[02:55:58] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
+[02:56:06] [Server thread/INFO]: Mohamed_la_punta[/127.66.204.162:33667] logged in with entity id 51764 at (-222.68962429809298, 71.0, 269.2639174976753)
+[02:56:06] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[02:56:06] [Server thread/INFO]: Loading config from file...
+[02:56:06] [Server thread/INFO]: Mohamed_la_punta joined the game
+[02:56:10] [Server thread/INFO]: [voicechat] Received secret request of Mohamed_la_punta (18)
+[02:56:10] [Server thread/INFO]: [voicechat] Sent secret to Mohamed_la_punta
+[02:58:07] [Server thread/INFO]: nael_binbolo has made the advancement [We Need to Go Deeper]
+[02:58:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[02:59:25] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[02:59:25] [Server thread/INFO]: nael_binbolo left the game
+[02:59:25] [Server thread/INFO]: [voicechat] Disconnecting client nael_binbolo
+[02:59:34] [Server thread/INFO]: Maycol_27x has reached the goal [Sky's the Limit]
+[02:59:41] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[02:59:41] [Server thread/INFO]: Jmat_2 left the game
+[02:59:41] [Server thread/INFO]: [voicechat] Disconnecting client Jmat_2
+[03:00:53] [Server thread/WARN]: Maycol_27x moved too quickly! -1.2849262978845672,-0.7881709760951878,-17.59164903125577
+[03:01:18] [Server thread/INFO]: Mohamed_la_punta lost connection: Disconnected
+[03:01:18] [Server thread/INFO]: Mohamed_la_punta left the game
+[03:01:18] [Server thread/INFO]: [voicechat] Disconnecting client Mohamed_la_punta
+[03:01:18] [Server thread/INFO]: Villager class_1646['Unemployed'/51527, l='ServerLevel[world]', x=-179.51, y=66.00, z=350.26] died, message: 'Unemployed was slain by Zombie'
