@@ -1846,3 +1846,22 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [03:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
 [03:07:49] [Server thread/WARN]: Maycol_27x moved too quickly! -1.9258154330900652,-0.49520087700592796,-10.001568598457197
 [03:10:12] [Worker-Main-72/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[03:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7317ms or 146 ticks behind
+[03:14:57] [Server thread/INFO]: [Not Secure] <vGodbridger> NO
+[03:15:27] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[03:15:27] [Server thread/INFO]: Maycol_27x left the game
+[03:15:27] [Server thread/INFO]: [voicechat] Disconnecting client Maycol_27x
+[03:15:40] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=1317, y=-56, z=197}
+[03:15:45] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=1312, y=-58, z=101}
+[03:15:45] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=1312, y=-58, z=101}
+[03:15:45] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=1312, y=-58, z=103}
+[03:15:45] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=1312, y=-58, z=103}
+[03:15:47] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=1317, y=-56, z=197}
+[03:16:35] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=1291, y=-58, z=182}
+[03:16:37] [Worker-Main-38/ERROR]: Hanging entity at invalid position: class_2338{x=1302, y=-58, z=197}
+[03:16:37] [Worker-Main-38/ERROR]: Hanging entity at invalid position: class_2338{x=1302, y=-58, z=197}
+[03:17:34] [Worker-Main-72/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[03:21:16] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[03:21:16] [Server thread/INFO]: vGodbridger left the game
+[03:21:16] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
