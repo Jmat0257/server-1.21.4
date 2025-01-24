@@ -316,3 +316,26 @@
 [23:01:32] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
 [23:01:32] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
 [23:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[23:14:51] [Server thread/INFO]: Ripstiven[/127.255.194.161:57435] logged in with entity id 3126 at (3.5, 68.0, 5.5)
+[23:14:51] [Server thread/INFO]: Syncing config to Ripstiven (f07ab0f1-1ff4-3937-bc13-6dcfa103c0e5)
+[23:14:51] [Server thread/INFO]: Loading config from file...
+[23:14:51] [Server thread/INFO]: Ripstiven joined the game
+[23:14:52] [Server thread/INFO]: Ripstiven lost connection: Disconnected
+[23:14:52] [Server thread/INFO]: Ripstiven left the game
+[23:14:52] [Server thread/INFO]: [voicechat] Disconnecting client Ripstiven
+[23:15:17] [Server thread/INFO]: Ripstiven[/127.255.194.161:36613] logged in with entity id 3332 at (3.5, 68.0, 5.5)
+[23:15:17] [Server thread/INFO]: Syncing config to Ripstiven (f07ab0f1-1ff4-3937-bc13-6dcfa103c0e5)
+[23:15:17] [Server thread/INFO]: Loading config from file...
+[23:15:17] [Server thread/INFO]: Ripstiven joined the game
+[23:15:18] [Server thread/INFO]: Ripstiven lost connection: Disconnected
+[23:15:18] [Server thread/INFO]: Ripstiven left the game
+[23:15:18] [Server thread/INFO]: [voicechat] Disconnecting client Ripstiven
+[23:16:28] [Server thread/INFO]: Ripstiven[/127.255.194.161:40967] logged in with entity id 3567 at (3.5, 68.0, 5.5)
+[23:16:28] [Server thread/INFO]: Syncing config to Ripstiven (f07ab0f1-1ff4-3937-bc13-6dcfa103c0e5)
+[23:16:28] [Server thread/INFO]: Loading config from file...
+[23:16:28] [Server thread/INFO]: Ripstiven joined the game
+[23:16:29] [Server thread/INFO]: [voicechat] Received secret request of Ripstiven (18)
+[23:16:29] [Server thread/INFO]: [voicechat] Sent secret to Ripstiven
+[23:16:29] [Server thread/INFO]: Ripstiven lost connection: Disconnected
+[23:16:29] [Server thread/INFO]: Ripstiven left the game
+[23:16:29] [Server thread/INFO]: [voicechat] Disconnecting client Ripstiven
