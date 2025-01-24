@@ -1375,3 +1375,30 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:56:50] [Server thread/INFO]: [voicechat] Received secret request of vGodbridger (18)
 [01:56:50] [Server thread/INFO]: [voicechat] Sent secret to vGodbridger
 [01:57:57] [Server thread/INFO]: [Not Secure] <vGodbridger> menol
+[01:59:54] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[01:59:54] [Server thread/INFO]: vGodbridger left the game
+[01:59:54] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[02:04:23] [Server thread/INFO]: Maycol_27x has made the advancement [The End?]
+[02:04:27] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:04:27] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[02:04:29] [Server thread/INFO]: Portal location is null. Placing manually...
+[02:04:29] [Server thread/INFO]: Set the exit portal location to: class_2338{x=0, y=65, z=0}
+[02:04:29] [Server thread/INFO]: Jmat_2 has made the advancement [The End?]
+[02:04:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6512ms or 130 ticks behind
+[02:04:29] [Server thread/WARN]: Jmat_2 moved too quickly! 5221.853722390587,52.46415937495544,2628.673315274884
+[02:05:14] [Server thread/INFO]: Starting initial dragon fight!
+[02:05:14] [Server thread/INFO]: Found all crystals, starting initial dragon spawn.
+[02:05:44] [Server thread/INFO]: Set the exit portal location to: class_2338{x=0, y=65, z=0}
+[02:05:53] [Server thread/INFO]: vGodbridger[/127.194.163.136:42733] logged in with entity id 19815 at (-240.01590074100497, 63.0, 345.69999998807907)
+[02:05:53] [Server thread/INFO]: Syncing config to vGodbridger (a077d1a3-2034-3e39-ac7d-62c04a048b38)
+[02:05:53] [Server thread/INFO]: Loading config from file...
+[02:05:53] [Server thread/INFO]: vGodbridger joined the game
+[02:05:54] [Server thread/INFO]: vGodbridger lost connection: Disconnected
+[02:05:54] [Server thread/INFO]: vGodbridger left the game
+[02:05:54] [Server thread/INFO]: [voicechat] Disconnecting client vGodbridger
+[02:09:35] [Server thread/INFO]: Mohamed_la_punta[/127.66.204.162:48667] logged in with entity id 20095 at (-200.30000001192093, 78.0, 269.30000001192093)
+[02:09:35] [Server thread/INFO]: Syncing config to Mohamed_la_punta (8af7dfad-16ec-3161-9b83-c4e7fba272ef)
+[02:09:35] [Server thread/INFO]: Loading config from file...
+[02:09:35] [Server thread/INFO]: Mohamed_la_punta joined the game
+[02:09:40] [Server thread/INFO]: [voicechat] Received secret request of Mohamed_la_punta (18)
+[02:09:40] [Server thread/INFO]: [voicechat] Sent secret to Mohamed_la_punta
