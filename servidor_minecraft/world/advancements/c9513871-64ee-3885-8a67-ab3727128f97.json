@@ -1234,9 +1234,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "shot_arrow": "2025-01-24 02:37:36 +0000"
+      "has_kelp": "2025-01-24 02:33:22 +0000"
     },
     "done": true
   },
@@ -1246,15 +1246,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-01-24 02:33:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-24 02:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-24 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-24 02:45:36 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-24 02:45:36 +0000"
     },
     "done": true
   },
