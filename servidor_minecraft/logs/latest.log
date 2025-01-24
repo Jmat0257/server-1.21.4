@@ -812,3 +812,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[01:22:09] [Server thread/INFO]: Maycol_27x[/127.137.81.102:35621] logged in with entity id 13 at (-3690.5880587780384, 120.0, -2966.4833046571766)
+[01:22:10] [Server thread/INFO]: Syncing config to Maycol_27x (f7c0418f-009a-36ed-9047-607267bfc6b7)
+[01:22:10] [Server thread/INFO]: Loading config from file...
+[01:22:10] [Server thread/INFO]: Maycol_27x joined the game
+[01:22:12] [Server thread/INFO]: [voicechat] Received secret request of Maycol_27x (18)
+[01:22:12] [Server thread/INFO]: [voicechat] Sent secret to Maycol_27x
+[01:22:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
