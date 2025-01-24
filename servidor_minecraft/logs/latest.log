@@ -349,3 +349,23 @@
 [23:33:00] [Server thread/INFO]: Jmat_2 joined the game
 [23:33:01] [Server thread/INFO]: [voicechat] Received secret request of Jmat_2 (18)
 [23:33:01] [Server thread/INFO]: [voicechat] Sent secret to Jmat_2
+[23:46:23] [Server thread/INFO]: Ripstiven[/127.255.194.161:58623] logged in with entity id 8673 at (3.5, 68.0, 5.5)
+[23:46:23] [Server thread/INFO]: Syncing config to Ripstiven (f07ab0f1-1ff4-3937-bc13-6dcfa103c0e5)
+[23:46:23] [Server thread/INFO]: Loading config from file...
+[23:46:23] [Server thread/INFO]: Ripstiven joined the game
+[23:46:24] [Server thread/INFO]: [voicechat] Received secret request of Ripstiven (18)
+[23:46:24] [Server thread/INFO]: [voicechat] Sent secret to Ripstiven
+[23:46:35] [Server thread/INFO]: [Not Secure] <Jmat_2> -224 270
+[23:48:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=65, z=0}
+[23:48:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=66, z=0}
+[23:48:22] [Server thread/INFO]: [Not Secure] <Jmat_2> -224 270
+[23:48:24] [Server thread/INFO]: [Not Secure] <Jmat_2> -224 270
+[23:49:37] [Server thread/INFO]: Ripstiven lost connection: Disconnected
+[23:49:37] [Server thread/INFO]: Ripstiven left the game
+[23:49:37] [Server thread/INFO]: [voicechat] Disconnecting client Ripstiven
+[23:49:47] [Server thread/INFO]: Ripstiven[/127.255.194.161:54969] logged in with entity id 9972 at (-86.95826942428295, 71.0, 132.1311534787809)
+[23:49:48] [Server thread/INFO]: Syncing config to Ripstiven (f07ab0f1-1ff4-3937-bc13-6dcfa103c0e5)
+[23:49:48] [Server thread/INFO]: Loading config from file...
+[23:49:48] [Server thread/INFO]: Ripstiven joined the game
+[23:49:48] [Server thread/INFO]: [voicechat] Received secret request of Ripstiven (18)
+[23:49:48] [Server thread/INFO]: [voicechat] Sent secret to Ripstiven
