@@ -3637,21 +3637,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-24 03:19:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-01-24 03:21:04 +0000"
+      "has_water_bucket": "2025-01-24 03:04:13 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-01-24 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-24 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-24 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-24 03:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-01-24 03:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-24 03:21:04 +0000"
     },
     "done": true
   },
@@ -3667,12 +3691,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-01-24 03:13:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-01-24 03:21:04 +0000"
@@ -3685,27 +3703,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-01-24 03:19:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-01-24 03:04:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-24 03:21:04 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/pie_crust": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_wheat": "2025-01-24 03:13:37 +0000"
+      "has_wood_slab": "2025-01-25 00:00:57 +0000"
     },
     "done": true
   },
