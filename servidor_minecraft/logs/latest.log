@@ -335,3 +335,19 @@
 [01:23:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
 [01:23:04] [Server thread/INFO]: [voicechat] Received secret request of Maycol_27x (18)
 [01:23:04] [Server thread/INFO]: [voicechat] Sent secret to Maycol_27x
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3648, y=122, z=-3060} class_2338{x=-3648, y=122, z=-3059}
+[01:37:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3661, y=124, z=-3065} class_2338{x=-3659, y=124, z=-3064}
+[01:37:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3661, y=124, z=-3065} class_2338{x=-3659, y=124, z=-3064}
+[01:38:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3639, y=122, z=-3069} class_2338{x=-3640, y=123, z=-3071}
